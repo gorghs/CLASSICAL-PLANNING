@@ -119,7 +119,7 @@ print(plan)
 ```
 
 ## Output
-![image](./output.png)
+![image](https://github.com/user-attachments/assets/316122e3-2dbc-4733-80d7-07c04ed13650)
 
 ## Result
 Therefore, the Classical Planning Algorithm has been implemented successfully.
